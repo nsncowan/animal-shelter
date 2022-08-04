@@ -5,6 +5,7 @@ h1 {
 .animal {
   float: left;
   width: 33%;
+  color: rgb(69, 56, 129)
 }
 
 h2 {
