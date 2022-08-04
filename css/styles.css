@@ -1,0 +1,21 @@
+h1 { 
+  text-align: center;
+}
+
+.animal {
+  float: left;
+  width: 33%;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 30%;
+  
+}
+
+img {
+  vertical-align: baseline;
+  margin: auto;
+  height: 200px;
+  display: block;
+}
